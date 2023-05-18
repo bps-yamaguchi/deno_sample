@@ -1,1 +1,1 @@
-console.log("ホゲ")
+console.log("ホゲver2")
